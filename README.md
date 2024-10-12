@@ -1,4 +1,3 @@
-# Dashboard-Power-BI-
 # Dashboard Financier avec Power BI
 
 ## Description
